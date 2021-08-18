@@ -212,7 +212,6 @@ public class AdminAddNewProductActivity extends AppCompatActivity {
          });
 
 
-
     }
 
     private void SaveProductInfoToDatabase()
